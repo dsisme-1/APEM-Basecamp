@@ -10,9 +10,9 @@ Berbeda dengan **edge device** yang menjalankan aplikasi **APEM** untuk melakuka
 
 ### Dashboard Monitoring
 
-![Dashboard Monitoring](docs/apem-basecamp1.png)
+![Tampilan 1](docs/apem-basecamp1.png)
 
-![Dashboard Monitoring](docs/apem-basecamp2.png)
+![Tampilan 2](docs/apem-basecamp2.png)
 ---
 ## ✨ Fitur
 
