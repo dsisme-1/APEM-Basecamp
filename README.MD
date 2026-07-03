@@ -1,8 +1,6 @@
 # 🦅 APEM (AI-Powered Ecoacoustic Monitor) Basecamp
 
-**APEM Basecamp** merupakan aplikasi berbasis web yang berfungsi sebagai pusat penerimaan, penyimpanan, dan visualisasi hasil deteksi suara burung yang dikirimkan oleh **edge device** yang menjalankan aplikasi **APEM** melalui komunikasi **LoRa**.
-
-Berbeda dengan **edge device** yang menjalankan aplikasi **APEM** untuk melakukan *audio acquisition*, *offline inference* menggunakan model **BirdNET TensorFlow Lite (TFLite)**, serta mengirimkan hasil deteksi ke Basecamp melalui **LoRa**, **APEM Basecamp** berfokus pada penerimaan data, penyimpanan ke dalam **SQLite**, dan penyajian informasi melalui dashboard berbasis **Streamlit** secara *real-time*. Komunikasi dengan **LoRa Receiver** dilakukan menggunakan **PySerial** untuk menerima paket data dari edge device.
+**APEM Basecamp** merupakan aplikasi berbasis web yang berfungsi sebagai pusat penerimaan, penyimpanan, dan visualisasi hasil deteksi suara burung yang dikirimkan oleh **edge device** yang menjalankan aplikasi **APEM** melalui komunikasi **LoRa**. Berbeda dengan **edge device** yang menjalankan aplikasi **APEM** untuk melakukan *audio acquisition*, *offline inference* menggunakan model **BirdNET TensorFlow Lite (TFLite)**, serta mengirimkan hasil deteksi ke Basecamp melalui **LoRa**, **APEM Basecamp** berfokus pada penerimaan data, penyimpanan ke dalam **SQLite**, dan penyajian informasi melalui dashboard berbasis **Streamlit** secara *real-time*. Komunikasi dengan **LoRa Receiver** dilakukan menggunakan **PySerial** untuk menerima paket data dari edge device.
 ---
 
 ## 🖼️ Tampilan Aplikasi
