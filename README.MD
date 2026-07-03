@@ -9,10 +9,10 @@ Berbeda dengan **edge device** yang menjalankan aplikasi **APEM** untuk melakuka
 
 ### Dashboard Monitoring
 
-!(docs/apem-basecamp1.png)
+![Dashboard Monitoring](docs/apem-basecamp1.png)
 
-!(docs/apem-basecamp2.png)
-
+![Dashboard Monitoring](docs/apem-basecamp1.png)
+---
 ## ✨ Fitur
 
 - 📡 Monitoring data LoRa secara *real-time*
