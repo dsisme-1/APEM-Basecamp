@@ -104,7 +104,10 @@ streamlit run app.py
 Selanjutnya buka alamat yang ditampilkan pada terminal (umumnya `http://localhost:8501`).
 
 Hubungkan **LoRa Receiver** ke komputer, pilih **COM Port** yang tersedia pada dashboard, kemudian aktifkan koneksi untuk mulai menerima data dari **edge device** yang menjalankan aplikasi **APEM**.
+
 ---
+
+## 🖼️ Tampilan Aplikasi
 
 ## 📄 Lisensi
 
