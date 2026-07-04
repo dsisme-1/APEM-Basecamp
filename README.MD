@@ -107,8 +107,6 @@ Hubungkan **LoRa Receiver** ke komputer, pilih **COM Port** yang tersedia pada d
 
 ---
 
-## 🖼️ Tampilan Aplikasi
-
 ## 📄 Lisensi
 
 Proyek ini menggunakan lisensi **MIT**.
